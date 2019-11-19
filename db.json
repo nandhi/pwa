@@ -1,0 +1,24 @@
+{
+"products"; [
+{"id":1,"name":"Indian leopard","category":"Khaki"},
+{"id":2,"name":"Red-legged pademelon","category":"Turquoise"},
+{"id":3,"name":"Argalis","category":"Pink"},
+{"id":4,"name":"Mara","category":"Puce"},
+{"id":5,"name":"Giraffe","category":"Crimson"},
+{"id":6,"name":"Indian tree pie","category":"Fuscia"},
+{"id":7,"name":"Hoffman's sloth","category":"Crimson"},
+{"id":8,"name":"Heron, green-backed","category":"Red"},
+{"id":9,"name":"Gull, silver","category":"Turquoise"},
+{"id":10,"name":"Argalis","category":"Goldenrod"},
+{"id":11,"name":"Red-cheeked cordon bleu","category":"Aquamarine"},
+{"id":12,"name":"Lesser flamingo","category":"Maroon"},
+{"id":13,"name":"Malagasy ground boa","category":"Yellow"},
+{"id":14,"name":"Porcupine, indian","category":"Green"},
+{"id":15,"name":"European red squirrel","category":"Crimson"},
+{"id":16,"name":"White spoonbill","category":"Blue"},
+{"id":17,"name":"Agile wallaby","category":"Teal"},
+{"id":18,"name":"Wolf spider","category":"Yellow"},
+{"id":19,"name":"Tamandua, southern","category":"Pink"},
+{"id":20,"name":"Spurfowl, yellow-necked","category":"Maroon"}
+]
+}
